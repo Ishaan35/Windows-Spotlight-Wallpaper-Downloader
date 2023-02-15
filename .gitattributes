@@ -1,2 +1,5 @@
+* linguist-vendored
 *.HTML linguist-detectable=false
 *.toc linguist-detectable=false
+*.py linguist-vendored=false
+
